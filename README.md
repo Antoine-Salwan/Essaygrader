@@ -1,0 +1,2 @@
+The Automated Essay Grading System project aims to streamline the evaluation of written essays using advanced machine learning techniques. With the growing volume of student submissions, traditional grading methods can be time-consuming and subjective. This project leverages Google Colab, a cloud-based platform, to create an efficient and scalable solution.
+![image](https://github.com/user-attachments/assets/327c3664-26eb-4f59-9234-6177e228d10f)
